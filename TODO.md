@@ -1,0 +1,1 @@
+# Snake Game Enhancement: Add Play Again Prompt\n\n- [x] Create TODO.md\n- [x] Edit script.js: Replace game over alert with confirm dialog showing score and \"Play again?\" option\n- [x] Test the feature by running the game (launched via browser command)\n- [x] Complete task
